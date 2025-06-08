@@ -1,4 +1,4 @@
-
+passport.png
  # about me 
   i am dennis kiprotich , a passion statistitian and mathematics , a graduate in applied statistics .I have skills in data analitics and data science,
  # what i do 
